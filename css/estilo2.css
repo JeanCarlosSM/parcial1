@@ -1,0 +1,23 @@
+.flexcontenedor > div {
+    display: flex;
+    height: 190px;
+    width: 30%;
+    margin-bottom: 10px;
+}
+.flexcontenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+h1 {
+    color: #23285d;
+}
+div > p > a {
+    color: #f9c7d6;
+}
+samp {
+    color: #23285d;
+}
+h4 {
+    color: #23285d;
+}
